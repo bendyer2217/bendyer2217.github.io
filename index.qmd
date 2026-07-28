@@ -1,5 +1,5 @@
 ---
-title: "Blitz Bearcat"
+title: "Ben Dyer"
 subtitle: "M.S. Data Science Candidate · Willamette University"
 image: images/profile.png
 about:
@@ -9,30 +9,25 @@ about:
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/your_github_username
+      href: https://github.com/bendyer2217
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/your_github_username
+      href: www.linkedin.com/in/bdyer22
     - icon: envelope
       text: Email
-      href: mailto:you@willamette.edu
+      href: mailto:bdyer@willamette.edu
     - icon: file-earmark-pdf
       text: Resume
       href: resume.qmd
 ---
 
-I build data pipelines and turn messy data into decisions people can act on.
-Right now I am finishing my M.S. in Data Science at **Willamette University**,
-where my capstone [predicts \[your one-line problem\]](capstone.qmd) for
-\[your stakeholder\].
+I am passioinate about turning unstructured data into meaningful insights. 
+Currently, I am finishing my M.S. in Data Science at **Willamette University**
 
-I care about \[topics you actually care about — e.g. housing, health equity,
-sports analytics\], reproducible workflows, and explaining a model to the person
-who has to trust it.
+I am interested in sports analytics, public service, and using data to solve problems.
 
-**Currently looking for** \[data analyst / data scientist / ML engineer\] roles
-starting \[month year\]. [Get in touch](about.qmd) or grab my
-[resume](resume.qmd).
+**Currently looking for** [data analyst / data scientist] roles starting
+September 2026. [Get in touch](about.qmd) or grab my [resume](resume.qmd).
 
 ---
 
@@ -46,14 +41,14 @@ Willamette University, 2026
 
 ::: {.g-col-12 .g-col-md-4}
 ### 🛠️ Toolkit
-R · Python · SQL
-Quarto · Git · \[add yours\]
+Python · SQL · Git
+Quarto · scikit-learn · statsmodels
 :::
 
 ::: {.g-col-12 .g-col-md-4}
 ### 📍 Based in
 Salem, OR
-Open to \[remote / relocation\]
+Open to [remote / relocation]
 :::
 
 :::
